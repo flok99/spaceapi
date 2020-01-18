@@ -105,6 +105,8 @@ while ($space = $result->fetch_assoc()) {
 <p>Suggestions or whatever you feel like saying can be send via e-mail to: <a href="mailto:mail@vanheusden.com">mail@vanheusden.com</a></p>
 <br>
 <p>Number of visitors: <? print $counter; ?></p>
+<br>
+<p>Source code of this website is on <a href="https://github.com/flok99/spaceapi">GitHub</a>.</p>
 
 <br>
 <br>
